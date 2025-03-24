@@ -1,0 +1,11 @@
+PVPDASH_TITLE= PvP Dash
+
+PVPDASH_ENABLE= Enabled
+PVPDASH_KEEP_SPINNERS= Keep spawned spinners on ghost death
+PVPDASH_TEAM= Team
+PVPDASH_TEAM_SUBTEXT= Set to 0 to have everyone else as your enemy
+PVPDASH_SELF= Spawn enemy spinners on your dash
+PVPDASH_SELF_SUBTEXT= Set to true to spawn enemy spinners yourself (when in team 0)
+PVPDASH_NO_MOD_ENEMIES= Make players without the mod enemies
+PVPDASH_TEAMUPDATE= Manual team update
+PVPDASH_TEAMUPDATE_SUBTEXT= Press your menu confirm button to request the team of everyone in your channel
