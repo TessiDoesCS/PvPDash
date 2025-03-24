@@ -22,6 +22,6 @@ idk
 
 If you have any suggestions, feel free to suggest them or send a message to me on discord @leo2k6islazy :D
 
-Since this is my first mod, pls also point out any mistakes you find in my code.
+This is my first Celeste mod, so any recommendations/feedback would be much appreciated :D
 
 I hope you like my mod :D
