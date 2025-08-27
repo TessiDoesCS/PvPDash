@@ -20,7 +20,7 @@ If you encounter any issues with this mod, feel free to open an issue or send a 
 ## What will be the future of this mod?
 idk
 
-If you have any suggestions, feel free to suggest them or send a message to me on discord @leo2k6islazy :D
+If you have any suggestions, feel free to suggest them or send a message to me on discord @teessiislazy :D
 
 This is my first Celeste mod, so any recommendations/feedback would be much appreciated :D
 
